@@ -1,0 +1,14 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "create weather app",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhagwan",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
